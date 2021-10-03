@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "wai-logistics": {
+      "hosting": {
+        "wailogistics": [
+          "wai-logistics"
+        ]
+      }
+    }
+  }
+}
